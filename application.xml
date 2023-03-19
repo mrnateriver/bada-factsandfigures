@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>FactsAndFigures</Entry>
+    <Name>
+        <English>Facts</English>
+        <rus-RU>Факты</rus-RU>
+        <ukr-UA>Факти</ukr-UA>
+    </Name>
+    <Vendor>Evgenii Dobrovidov</Vendor>
+    <Description>Best way to discover something you never knew.</Description>
+    <Icons>
+        <MainMenu>FactsAndFigures_type4.png<Type1/>
+            <Type2/>
+            <Type3/>
+            <Type4>FactsAndFigures_type4.png</Type4>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2/>
+            <Type3/>
+            <Type4>Splash_type4.png</Type4>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>

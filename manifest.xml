@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<Manifest>
+    <Id></Id>
+    <Secret></Secret>
+  <AppVersion>1.0.3</AppVersion>
+  <ManifestVersion>1.2</ManifestVersion>
+  <AppType>C++App</AppType>
+    <Privileges>
+        <Privilege>
+            <Name>IMAGE</Name>
+        </Privilege>
+        <Privilege>
+            <Name>SYSTEM_SERVICE</Name>
+        </Privilege>
+        <Privilege>
+            <Name>WEB_SERVICE</Name>
+        </Privilege>
+    </Privileges>
+    <DeviceProfile>
+        <APIVersion>2.0</APIVersion>
+    </DeviceProfile>
+</Manifest>
